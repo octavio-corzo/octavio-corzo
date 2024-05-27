@@ -33,3 +33,6 @@ const Octavio = {
    },
 };
 ```
+
+![Gihub Stats](https://github-readme-stats.vercel.app/api?username=octavio-corzo&show_icons=true&theme=radical)
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=octavio-corzo&layout=compact&theme=radical)
