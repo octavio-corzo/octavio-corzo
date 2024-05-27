@@ -1,4 +1,5 @@
-## Hi there 👋
+## About me:
+Hi 👋 i'm Octavio Corzo <br>Web developer & mobile developer 👩‍💻 Coding tried to defeat me once, but I'm a strongly typed of guy.
 
 <!--
 **octavio-corzo/octavio-corzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
