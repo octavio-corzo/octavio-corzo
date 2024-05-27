@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```js
+const Octavio = {
+   pronouns: "He" | "Him",
+   code: ["Javascript", "TypeScript", "Java", "Dart"],
+   askMeAbout: ["web dev", "tech", "app dev", "music",],
+   technologies: {
+      mobileApp: ["Flutter"],
+      frontEnd: {
+         js: ["React.js", "Vue.js"],
+      },
+      backEnd: {
+         js: ["node", "express"],
+      },
+      databases: ["mongo", "MySql"],
+   },
+};
+```
