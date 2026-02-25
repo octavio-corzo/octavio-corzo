@@ -24,7 +24,7 @@ const Octavio = {
 };
 ```
 
-### 📊 Mis Estadísticas de GitHub
+### 📊 My GitHub Stacks
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=octavio-corzo&show_icons=true&theme=radical&hide_border=false" alt="Estadísticas de Octavio" width="48%" />
