@@ -24,9 +24,10 @@ const Octavio = {
 };
 ```
 
-### 📊 My GitHub Stacks
+### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=octavio-corzo&theme=radical" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octavio-corzo&layout=compact&theme=radical" alt="Lenguajes más usados" width="43%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=octavio-corzo&show_icons=true&theme=radical" width="48%" alt="Estadísticas de Octavio" />
+  
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=octavio-corzo&layout=compact&theme=radical" width="45%" alt="Lenguajes más usados" />
 </p>
